@@ -1,7 +1,7 @@
 # MovieDb
 
-![](images/Screenshot 2024-01-07 at 11.15.00.png)
-![](images/movie_page.png)
+![](images/Home_Page.png)
+![](images/Movie_Details.png)
 
 
 A mini IMDB clone app in which we can search movies based on OMDB API, with search suggestions. 
