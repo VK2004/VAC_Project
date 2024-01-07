@@ -1,4 +1,4 @@
-# IMDB-clone app
+# MovieDb
 
 ![](images/home_page.png)
 ![](images/movie_page.png)
@@ -16,6 +16,7 @@ On clicking on the favourite button, we can add a movie to the favourite list wh
 * Bootstrap
 * JavaScript
 * OMDB API
+* ASP.NET Framework
 
 ### Functionality
 * Search movies with suggestions
