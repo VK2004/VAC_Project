@@ -1,6 +1,6 @@
 # MovieDb
 
-![](images/home_page.png)
+![](images/Screenshot 2024-01-07 at 11.15.00.png)
 ![](images/movie_page.png)
 
 
